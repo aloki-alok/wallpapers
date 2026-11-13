@@ -3,10 +3,9 @@
 ## This repo is a collection of wallpapers which are curated from different sources and are used by me on my personal setup.
 
 > [!NOTE]
-> This collection now lives at **[aloki-alok/wallpapers](https://github.com/aloki-alok/wallpapers)** — new wallpapers are added there.
-
-> [!IMPORTANT]
-> If you want to use my catppuccin themed rofi wallpaper switcher or randomizer scripts and rasi files: you can check out `.config/scripts` and related files in [my dots](https://github.com/ryu-ryuk/dots)
+> My current Mac setup lives in [aloki-alok/.macfiles](https://github.com/aloki-alok/.macfiles). The older Linux rofi wallpaper switcher is in [ryu-ryuk/dots](https://github.com/ryu-ryuk/dots).
+>
+> Many anime pieces come from [dharmx/walls](https://github.com/dharmx/walls). All art belongs to its artists.
 
 
 
@@ -31,6 +30,14 @@
 | <img src="849213.png" width="400"> | <img src="8bc742f1108b17171eb07e737581a384ea16312c.png" width="400"> | <img src="GN8evF-bsAAGsIg_nord.jpg" width="400"> |
 | <img src="GTzzBxybwAIX8Dd_nord.jpeg" width="400"> | <img src="GUl-1LQbEAAwTrW_nord.jpeg" width="400"> | <img src="GmpTv7HaAAAIuasdasdbh.jpg" width="400"> |
 | <img src="GmpTv7HaAAAIubh.jpg" width="400"> | <img src="Gp3PdgkbIAAmsH7.jpg" width="400"> | <img src="U87654ntitled.png" width="400"> |
+| <img src="a_cartoon_of_a_girl_sitting_on_a_porch_in_the_rain.png" width="400"> | <img src="a_cartoon_of_a_girl_standing_in_a_doorway.jpg" width="400"> | <img src="a_cartoon_of_a_girl_with_blue_hair_and_a_skull.jpg" width="400"> |
+| <img src="a_cartoon_of_a_girl_with_long_hair_holding_a_sword.jpg" width="400"> | <img src="a_cartoon_of_a_girl_with_long_hair_wearing_a_black_hat_and_jacket.png" width="400"> | <img src="a_cartoon_of_a_girl_with_white_hair_and_black_eyes.png" width="400"> |
+| <img src="a_cartoon_of_a_robot_and_a_girl_looking_at_a_pink_background.png" width="400"> | <img src="a_cartoon_of_a_woman.png" width="400"> | <img src="a_cartoon_of_a_woman_01.jpg" width="400"> |
+| <img src="a_cartoon_of_a_woman_holding_a_piece_of_food.png" width="400"> | <img src="a_cartoon_of_a_woman_holding_a_red_ball.jpg" width="400"> | <img src="a_cartoon_of_a_woman_playing_a_violin.png" width="400"> |
+| <img src="a_cartoon_of_a_woman_sitting_on_a_red_background.jpg" width="400"> | <img src="a_cartoon_of_a_woman_standing_in_front_of_a_building.jpg" width="400"> | <img src="a_cartoon_of_a_woman_standing_next_to_a_car.jpg" width="400"> |
+| <img src="a_cartoon_of_a_woman_with_birds_in_the_air.png" width="400"> | <img src="a_cartoon_of_a_woman_with_her_hands_on_her_face.jpg" width="400"> | <img src="a_cartoon_of_a_woman_with_long_hair.jpg" width="400"> |
+| <img src="a_cartoon_of_a_woman_with_long_white_hair.jpg" width="400"> | <img src="a_girl_sitting_at_desks_in_a_classroom_with_flowers_flying_out_of_her_head.jpg" width="400"> | <img src="a_man_and_woman_posing_for_a_picture.jpg" width="400"> |
+| <img src="a_person_in_the_air_above_a_city.png" width="400"> | <img src="a_woman_holding_a_sword.jpg" width="400"> | <img src="a_woman_wearing_a_helmet.jpg" width="400"> |
 | <img src="anime-girl-blue-hair-4k-wallpaper-uhdpaper.com-261@3@a.jpg" width="400"> | <img src="anime-girl-smoking-with-glasses-4k-wallpaper-uhdpaper.com-713@0@j.jpg" width="400"> | <img src="anime-girl-student-classroom-red-eye-4k-wallpaper-uhdpaper.com-750@3@a.jpg" width="400"> |
 | <img src="anime-girl-with-cap-smoking-4k-wallpaper-uhdpaper.com-712@0@j.jpg" width="400"> | <img src="b-010.jpg" width="400"> | <img src="b-014.jpg" width="400"> |
 | <img src="b-035.jpg" width="400"> | <img src="b-084.jpg" width="400"> | <img src="b-097.jpg" width="400"> |
